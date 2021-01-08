@@ -56,3 +56,4 @@ contract Shop {
         emit BuyProduct(_pid, _buyer, _timestamp);
     }
 }
+
